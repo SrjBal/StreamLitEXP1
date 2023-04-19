@@ -20,5 +20,6 @@ else:
   else:
     ans = n3
  
+st.subheader("The Largest of the 3 numbers is:")
 st.write(ans)
     
